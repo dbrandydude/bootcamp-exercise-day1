@@ -1,4 +1,4 @@
-# Andela BootCamp - Day 1
+# Andela BootCamp Cycle XXII- Day 1
 [ *dataTypes()* Function ]
 Takes an argument of data, and checks for its type. Below are returned stament
 For strings, returns its length.
