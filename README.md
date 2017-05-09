@@ -1,5 +1,4 @@
-# Andela BootCamp Cycle XXII- 
-## Day 1
+# Andela BootCamp Cycle XXII- Day 1
 
 ### [ *dataTypes()* Function ]
 
